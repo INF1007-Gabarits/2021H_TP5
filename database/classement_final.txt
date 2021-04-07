@@ -1,0 +1,43 @@
+Atlantic         ABV MJ V  D  DP PTS VRP BP  BC  DIFF
+Tampa_Bay        T-B 82 58 11 13 129  41 237 150   87
+Toronto          TOR 82 47 18 17 111  37 204 154   50
+Boston           BOS 82 43 17 22 108  33 175 141   34
+Montreal         MTL 82 40 18 24 104  33 182 158   24
+Florida          FLA 82 43 21 18 104  30 192 177   15
+Buffalo          BUF 82 36 20 26  98  24 174 166    8
+Detroit          DET 82 34 25 23  91  23 175 176   -1
+Ottawa           OTT 82 33 29 20  86  25 182 201  -19
+
+
+Metropolitan     ABV MJ V  D  DP PTS VRP BP  BC  DIFF
+NY_Islanders     NYI 82 45 15 22 112  33 177 130   47
+Pittsburgh       PIT 82 42 18 22 106  34 212 165   47
+Washington       WAS 82 42 18 22 106  29 201 169   32
+Columbus         CLB 82 43 21 18 104  32 186 166   20
+Carolina         CAR 82 42 21 19 103  31 172 161   11
+New_Jersey       N-J 82 39 24 19  97  24 185 175   10
+Philadelphia     PHI 82 38 23 21  97  26 177 184   -7
+NY_Rangers       NYR 82 36 22 24  96  21 172 176   -4
+
+
+Central          ABV MJ V  D  DP PTS VRP BP  BC  DIFF
+Winnipeg         WIN 82 52 16 14 118  34 211 148   63
+Nashville        NAS 82 41 19 22 104  34 188 145   43
+St-Louis         STL 82 41 22 19 101  28 167 159    8
+Colorado         COL 82 40 21 21 101  29 199 170   29
+Dallas           DAL 82 38 21 23  99  32 157 132   25
+Chicago          CHI 82 36 24 22  94  22 190 198   -8
+Minnesota        MIN 82 34 22 26  94  29 168 157   11
+
+
+Pacific          ABV MJ V  D  DP PTS VRP BP  BC  DIFF
+Calgary          CAL 82 46 15 21 113  38 219 158   61
+San-Jose         SJS 82 43 17 22 108  33 213 173   40
+Vegas            VGK 82 43 21 18 104  32 188 157   31
+Vancouver        VAN 82 43 22 17 103  28 182 167   15
+Arizona          ARI 82 42 24 16 100  24 163 150   13
+Edmonton         EDM 82 42 24 16 100  25 180 177    3
+Anaheim          ANA 82 33 23 26  92  20 145 168  -23
+Los-Angeles      L-A 82 36 27 19  91  26 142 158  -16
+
+
